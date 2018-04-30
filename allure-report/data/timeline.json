@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LIN80015404",
+    "children" : [ {
+      "name" : "22192@LIN80015404.pool-1-thread-1(12)",
+      "children" : [ {
+        "name" : "testset1[20,30]",
+        "uid" : "ce33707ea2b19abf",
+        "parentUid" : "9d5d89f47b768981d5cb1344012e5f25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1522168864498,
+          "stop" : 1522168909592,
+          "duration" : 45094
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "testset1[21,31]",
+        "uid" : "d649cc0da52d96ed",
+        "parentUid" : "9d5d89f47b768981d5cb1344012e5f25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1522168909849,
+          "stop" : 1522168968477,
+          "duration" : 58628
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "testset2[21,31]",
+        "uid" : "6c9bfbf665aba395",
+        "parentUid" : "9d5d89f47b768981d5cb1344012e5f25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1522169006239,
+          "stop" : 1522169171037,
+          "duration" : 164798
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "testset2[20,30]",
+        "uid" : "9ff579dbf1f79e1b",
+        "parentUid" : "9d5d89f47b768981d5cb1344012e5f25",
+        "status" : "passed",
+        "time" : {
+          "start" : 1522168968493,
+          "stop" : 1522169006232,
+          "duration" : 37739
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d5d89f47b768981d5cb1344012e5f25"
+    } ],
+    "uid" : "8828871f8229f16d81a9fd59b4c928fa"
+  } ]
+}

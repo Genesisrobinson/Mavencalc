@@ -1,0 +1,9 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "buildOrder" : 19,
+  "buildName" : "mvn #19",
+  "buildUrl" : "nulljob/mvn/19/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "nulljob/mvn/19/allure"
+} ]

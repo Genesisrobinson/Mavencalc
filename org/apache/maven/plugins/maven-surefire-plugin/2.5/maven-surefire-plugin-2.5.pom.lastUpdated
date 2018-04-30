@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 26 11:57:17 IST 2018
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1522043953229
+eb5267c2b9f7d8e8525c3bb98cd357e473509125@nap7-webgw01.mgmmirage.org\:8080>@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1522045637103
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.5 from/to central (http\://repo1.maven.org/maven2)\: Not authorized by proxy , ReasonPhrase\:authenticationrequired.

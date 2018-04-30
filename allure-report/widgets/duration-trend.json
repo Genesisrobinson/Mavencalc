@@ -1,0 +1,17 @@
+[ {
+  "buildOrder" : 19,
+  "reportUrl" : "nulljob/mvn/19/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 306539
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "nulljob/mvn/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 335478
+  }
+}, {
+  "data" : { }
+} ]

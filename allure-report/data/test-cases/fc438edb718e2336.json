@@ -1,0 +1,55 @@
+{
+  "uid" : "fc438edb718e2336",
+  "name" : "testset2[21,31]",
+  "fullName" : "Suite : Test.testset2[21,31]",
+  "historyId" : "62f4410ff701f41973955412518713a8",
+  "time" : {
+    "start" : 1522046047352,
+    "stop" : 1522046152042,
+    "duration" : 104690
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "LIN80015404"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "1600@LIN80015404.pool-1-thread-1(12)"
+  }, {
+    "name" : "suite",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testset2[21,31]"
+  }, {
+    "name" : "package",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc438edb718e2336.json",
+  "parameterValues" : [ ]
+}

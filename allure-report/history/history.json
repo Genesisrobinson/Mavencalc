@@ -1,0 +1,118 @@
+{
+  "4d1152b9eb3e3ec3caffb7a8606f91b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ce33707ea2b19abf",
+      "reportUrl" : "nulljob/mvn/19/allure/#testresult/ce33707ea2b19abf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522168864498,
+        "stop" : 1522168909592,
+        "duration" : 45094
+      }
+    }, {
+      "uid" : "6133fa1a5cdb8fff",
+      "reportUrl" : "nulljob/mvn/18/allure/#testresult/6133fa1a5cdb8fff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522151443420,
+        "stop" : 1522151518011,
+        "duration" : 74591
+      }
+    } ]
+  },
+  "87672c5daf00ca7b9c08b794d82d9cac" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9ff579dbf1f79e1b",
+      "reportUrl" : "nulljob/mvn/19/allure/#testresult/9ff579dbf1f79e1b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522168968493,
+        "stop" : 1522169006232,
+        "duration" : 37739
+      }
+    }, {
+      "uid" : "f2a30e32b62f9fc6",
+      "reportUrl" : "nulljob/mvn/18/allure/#testresult/f2a30e32b62f9fc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522151619493,
+        "stop" : 1522151687407,
+        "duration" : 67914
+      }
+    } ]
+  },
+  "6ee6df2f114d19b8407e5db624bec2c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d649cc0da52d96ed",
+      "reportUrl" : "nulljob/mvn/19/allure/#testresult/d649cc0da52d96ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522168909849,
+        "stop" : 1522168968477,
+        "duration" : 58628
+      }
+    }, {
+      "uid" : "a3e9e7bef982003d",
+      "reportUrl" : "nulljob/mvn/18/allure/#testresult/a3e9e7bef982003d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522151518197,
+        "stop" : 1522151619458,
+        "duration" : 101261
+      }
+    } ]
+  },
+  "62f4410ff701f41973955412518713a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6c9bfbf665aba395",
+      "reportUrl" : "nulljob/mvn/19/allure/#testresult/6c9bfbf665aba395",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522169006239,
+        "stop" : 1522169171037,
+        "duration" : 164798
+      }
+    }, {
+      "uid" : "cd06cd4154698175",
+      "reportUrl" : "nulljob/mvn/18/allure/#testresult/cd06cd4154698175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522151687418,
+        "stop" : 1522151778898,
+        "duration" : 91480
+      }
+    } ]
+  }
+}

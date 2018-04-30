@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1521992177864" stop="1521992483382" version="1.4.13" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1521992178799" stop="1521992255144" status="passed">
+            <name>testset1[20,30]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LIN80015404"/>
+                <label name="thread" value="9852@LIN80015404.pool-1-thread-1(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1521992255320" stop="1521992337205" status="passed">
+            <name>testset1[21,31]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LIN80015404"/>
+                <label name="thread" value="9852@LIN80015404.pool-1-thread-1(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1521992337253" stop="1521992406458" status="passed">
+            <name>testset2[20,30]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LIN80015404"/>
+                <label name="thread" value="9852@LIN80015404.pool-1-thread-1(12)"/>
+            </labels>
+        </test-case>
+        <test-case start="1521992406463" stop="1521992483274" status="passed">
+            <name>testset2[21,31]</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LIN80015404"/>
+                <label name="thread" value="9852@LIN80015404.pool-1-thread-1(12)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

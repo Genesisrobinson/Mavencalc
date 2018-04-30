@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 18,
+  "reportUrl" : "nulljob/mvn/18/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "data" : { }
+} ]

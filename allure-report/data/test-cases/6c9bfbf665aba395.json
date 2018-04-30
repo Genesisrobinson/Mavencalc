@@ -1,0 +1,175 @@
+{
+  "uid" : "6c9bfbf665aba395",
+  "name" : "testset2[21,31]",
+  "fullName" : "Suite : Test.testset2[21,31]",
+  "historyId" : "62f4410ff701f41973955412518713a8",
+  "time" : {
+    "start" : 1522169006239,
+    "stop" : 1522169171037,
+    "duration" : 164798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "LIN80015404"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "22192@LIN80015404.pool-1-thread-1(12)"
+  }, {
+    "name" : "suite",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testset2[21,31]"
+  }, {
+    "name" : "package",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85cf507c4bd45ac8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522151687418,
+        "stop" : 1522151778898,
+        "duration" : 91480
+      }
+    }, {
+      "uid" : "6ffe17fdd6e1d831",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Math Calculators')]\"}\n  (Session info: chrome=64.0.3282.186)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'\nSystem info: host: 'LIN80015404', ip: '10.51.142.72', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\WINDOWS\\TEMP\\scoped_dir2216_19131}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=64.0.3282.186, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]\nSession ID: 1c1ed7633916aa5fcb9460540482f154\n*** Element info: {Using=xpath, value=//*[contains(text(),'Math Calculators')]}",
+      "time" : {
+        "start" : 1522135218043,
+        "stop" : 1522135301190,
+        "duration" : 83147
+      }
+    }, {
+      "uid" : "87905c546ed82a37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522131277701,
+        "stop" : 1522131395511,
+        "duration" : 117810
+      }
+    }, {
+      "uid" : "2d3c929e8076ee35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522081662026,
+        "stop" : 1522081700997,
+        "duration" : 38971
+      }
+    }, {
+      "uid" : "6dbeab5471af848e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522066760656,
+        "stop" : 1522066875889,
+        "duration" : 115233
+      }
+    }, {
+      "uid" : "9e96a48fc8b99632",
+      "status" : "broken",
+      "statusDetails" : "NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[contains(text(),'Math Calculators')]\"}\n  (Session info: chrome=64.0.3282.186)\n  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'\nSystem info: host: 'LIN80015404', ip: '10.51.80.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\\WINDOWS\\TEMP\\scoped_dir14572_486}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=64.0.3282.186, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]\nSession ID: b620ef4c2426de144339571f6199c968\n*** Element info: {Using=xpath, value=//*[contains(text(),'Math Calculators')]}",
+      "time" : {
+        "start" : 1522057644838,
+        "stop" : 1522057726703,
+        "duration" : 81865
+      }
+    }, {
+      "uid" : "7b7086b1ff8b9ddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522046874211,
+        "stop" : 1522046976957,
+        "duration" : 102746
+      }
+    }, {
+      "uid" : "fc438edb718e2336",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522046047352,
+        "stop" : 1522046152042,
+        "duration" : 104690
+      }
+    }, {
+      "uid" : "5a388ec0c3755d68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1522043964286,
+        "stop" : 1522044039370,
+        "duration" : 75084
+      }
+    }, {
+      "uid" : "2bb6ec7babcbb3f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521993322523,
+        "stop" : 1521993362986,
+        "duration" : 40463
+      }
+    }, {
+      "uid" : "9e453e8125388747",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521992709569,
+        "stop" : 1521992775275,
+        "duration" : 65706
+      }
+    }, {
+      "uid" : "d735df0f9cd742f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521992406463,
+        "stop" : 1521992483274,
+        "duration" : 76811
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "cd06cd4154698175",
+        "reportUrl" : "nulljob/mvn/18/allure/#testresult/cd06cd4154698175",
+        "status" : "passed",
+        "time" : {
+          "start" : 1522151687418,
+          "stop" : 1522151778898,
+          "duration" : 91480
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "6c9bfbf665aba395.json",
+  "parameterValues" : [ ]
+}

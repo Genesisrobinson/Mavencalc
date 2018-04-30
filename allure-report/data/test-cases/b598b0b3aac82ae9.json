@@ -1,0 +1,55 @@
+{
+  "uid" : "b598b0b3aac82ae9",
+  "name" : "testset1[21,31]",
+  "fullName" : "Suite : Test.testset1[21,31]",
+  "historyId" : "6ee6df2f114d19b8407e5db624bec2c2",
+  "time" : {
+    "start" : 1522151518197,
+    "stop" : 1522151619458,
+    "duration" : 101261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "LIN80015404"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "21704@LIN80015404.pool-1-thread-1(12)"
+  }, {
+    "name" : "suite",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "testset1[21,31]"
+  }, {
+    "name" : "package",
+    "value" : "Suite : Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b598b0b3aac82ae9.json",
+  "parameterValues" : [ ]
+}

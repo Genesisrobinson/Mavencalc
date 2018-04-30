@@ -1,0 +1,14 @@
+[ {
+  "buildOrder" : 18,
+  "reportUrl" : "nulljob/mvn/18/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 44
+  }
+}, {
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+} ]
